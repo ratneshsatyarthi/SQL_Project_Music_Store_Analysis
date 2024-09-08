@@ -6,7 +6,8 @@ Database and Tools :
   1. Postgre SQL,
   2. PgAdmin4
 
-Beginner (1-5)/ Moderate (6-8)/ Advance (9-11):
+Business Questions : Beginner (1-5)/ Moderate (6-8)/ Advance (9-11):
+
 1.	Who is the senior most employee based on job title?
 2.	Which country has the most invoices ?
 3.	What are the Top 3 values of total invoice ?
