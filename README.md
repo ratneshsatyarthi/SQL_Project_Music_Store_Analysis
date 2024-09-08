@@ -1,6 +1,9 @@
 # SQL_Project_Music_Store_Analysis
 
 To analyze the music playlist database by examining the dataset with SQL and help store understand its business growth by answering simple questions.
+Database and Tools : 
+  Postgre SQL
+  PgAdmin4
 
 Beginner (1-5)/ Moderate (6-8)/ Advance (9-11):
 1.	Who is the senior most employee based on job title?
