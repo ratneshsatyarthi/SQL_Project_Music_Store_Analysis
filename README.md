@@ -10,7 +10,7 @@ Beginner:
 5.	Who is the best customer? The customer who has spent  the most money will be declared the best customer. Write a query that returns the person who has spent the most money.
 
 Moderate:
-6.	Write a query to return the email, first name, last name and genre of all rock music listeners. Return your list ordered alphabetically by email starting with A.
+6.  Write a query to return the email, first name, last name and genre of all rock music listeners. Return your list ordered alphabetically by email starting with A.
 7.	Let’s invite the artists who have written the most rock music in our dataset. Write a query that returns the artists name and total track count of the top 10 rock band.
 8.	Return all the track names that have a song length longer than the average song length. Return the name and milliseconds for each track. Order by the song length with the longest songs listed first.
 
