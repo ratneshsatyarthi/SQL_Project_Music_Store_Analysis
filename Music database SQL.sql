@@ -215,7 +215,7 @@ For countries where the top amount spent is shared, provide all customers who sp
 first find the most spent on music for each country and second filter the data for respective customers. */
 
 /* Method 1: using CTE */
-		WITH RECURSIVE 	customer_with_country AS (
+		WITH  	customer_with_country AS (
 		SELECT 
 				customer.customer_id,
 				first_name,
